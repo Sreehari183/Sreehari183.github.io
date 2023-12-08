@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research
+title: Notes
 permalink: /notes/
 ---
 
