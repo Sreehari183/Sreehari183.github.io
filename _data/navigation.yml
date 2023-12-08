@@ -1,8 +1,8 @@
 main:
   - title: "CV"
-    url: ""https://sreehari183.github.io/assets/cv/CV.pdf"
-  - title: "Notes"
-    url: /notes/
+    url: ""https://sreehari183.github.io/assets/images/resume_sreehari.pdf" 
+  #- title: "Notes"
+    #url: /notes/
   #- title: "Teaching"
     #url: /teaching/index
   #- title: "About"
