@@ -56,8 +56,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-minimal_mistakes_skin: "default"
-minimal_mistakes_skin2: "dark"
+#minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 author:
   name   : "First Lastname"
