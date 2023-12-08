@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/sree_profile.JPG{: width="250" }" 
+  avatar : "/assets/images/sree_avatar.JPG" 
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
