@@ -3,7 +3,7 @@ main:
     url: ""https://sreehari183.github.io/assets/cv/CV.pdf"
   - title: "Notes"
     url: /notes/
-  - title: "Teaching"
-    url: /teaching/index
+  #- title: "Teaching"
+    #url: /teaching/index
   #- title: "About"
     #url: /about/
