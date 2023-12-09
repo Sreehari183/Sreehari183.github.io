@@ -6,12 +6,11 @@ author_profile: true
 
 
 
-Hello! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello! I am a second-year mathematics PhD student at the [University of Kansas (KU)](https://ku.edu/). Before coming to KU, I received my
+BS-MS dual degree from [IISER Thiruvananthapuram](https://www.iisertvm.ac.in/), where I majored in mathematics and minored in Physics.
 
----
+My advisor is Prof. [Hailong Dao](https://people.ku.edu/~hdao/). I am interested in commutative algebra and algebraic geometry. I am currently
+working on some invariants related to points in projective space.
 
 
 
@@ -21,6 +20,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 
 Email: sreehari + at + ku + dot + edu
+
+Office: Snow Hall 622
 
 
 
