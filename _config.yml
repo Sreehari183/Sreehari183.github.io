@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-  #- label: "LinkedIn"
-      #icon: "fab fa-fw fa-linkedin"
-      #url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
+  - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
