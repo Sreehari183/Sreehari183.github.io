@@ -55,13 +55,14 @@ plugins:
 
 
 author:
-  #name   : "Sreehari Suresh Babu"
+  name   : "Sreehari Suresh Babu"
   avatar : "/assets/images/sree_avatar.JPG" 
   bio    : "PhD Candidate, Mathematics"
-  links:
-    - label: "University of Kansas"
+  bio    : "[University of Kansas](https://ku.edu/)"
+  #links:
+    #- label: "University of Kansas"
       #icon: "fas fa-fw fa-link"
-      url: "https://ku.edu/"
+      #url: "https://ku.edu/"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
