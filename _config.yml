@@ -55,9 +55,9 @@ plugins:
 
 
 author:
-  #name   : "First Lastname"
+  name   : "Sreehari Suresh Babu"
   avatar : "/assets/images/sree_avatar.JPG" 
-  bio    : "Snow Hall 622\n sreehari + at + ku + dot + edu"
+  #bio    : "Snow Hall 622\n sreehari + at + ku + dot + edu"
   #links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
