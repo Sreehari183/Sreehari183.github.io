@@ -51,7 +51,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-spaceship
+  
 
 
 author:
@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-  - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
+  #- label: "LinkedIn"
+      #icon: "fab fa-fw fa-linkedin"
+      #url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
