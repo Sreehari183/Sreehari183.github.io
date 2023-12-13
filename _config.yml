@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Sreehari Suresh Babu"
   avatar : "/assets/images/sree_avatar.JPG" 
-  bio    : "PhD Candidate, Mathematics<br>[University of Kansas](https://ku.edu/)"
+  bio    : "PhD candidate in mathematics at [University of Kansas](https://ku.edu/)."
   #links:
     #- label: "University of Kansas"
       #icon: "fas fa-fw fa-link"
@@ -72,18 +72,18 @@ author:
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
 
-footer:
-  links:
-  - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
+#footer:
+  #links:
+  #- label: "LinkedIn"
+      #icon: "fab fa-linkedin"
+      #url: "https://www.linkedin.com/in/sreehari-suresh-babu-5824a4298"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sreehari_ss"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://www.instagram.com/sreehari_ss"
 
