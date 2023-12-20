@@ -55,9 +55,11 @@ plugins:
 
 
 author:
-  name   : "Sreehari Suresh Babu"
-  avatar : "/assets/images/sree_avatar.JPG" 
-  bio    : "PhD candidate in mathematics at KU."
+  name     : "Sreehari Suresh Babu"
+  avatar   : "/assets/images/sree_avatar.JPG" 
+  bio      : "PhD candidate in mathematics."
+  location : Lawrence, KS, USA
+  employer : University of Kansas
   #links:
     #- label: "University of Kansas"
       #icon: "fas fa-fw fa-link"
