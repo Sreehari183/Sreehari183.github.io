@@ -54,10 +54,10 @@ plugins:
   
 
 
-#author:
-  #name     : "Sreehari Suresh Babu"
-  #avatar   : "/assets/images/sree_avatar.JPG" 
-  #bio      : "PhD candidate in mathematics."
+author:
+  name     : "Sreehari Suresh Babu"
+  avatar   : "/assets/images/sree_avatar.JPG" 
+  bio      : "PhD candidate in mathematics."
   #location : Lawrence, KS, USA
   
   #links:
@@ -73,13 +73,7 @@ plugins:
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here.
+
       
 atom_feed:
   hide: true
