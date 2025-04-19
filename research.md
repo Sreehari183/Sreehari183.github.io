@@ -6,4 +6,4 @@ permalink: /research/
 
 **Preprints**
 
-- (with H. Dao and B. Lund) **Betti numbers and linear covers of points**, [arXiv](https://arxiv.org/abs/2408.14064)
+- (with H. Dao) **Componentwise Linear Ideals From Sums**, [arXiv](https://arxiv.org/abs/2504.05261)
