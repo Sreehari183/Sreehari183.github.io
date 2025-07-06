@@ -19,6 +19,11 @@
   <link rel="stylesheet alternate" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
   <script>
     let theme = sessionStorage.getItem('theme');
+
+    if (!theme) {
+    theme = "dark";
+    sessionStorage.setItem('theme', 'dark');
+  }
     if(theme === "dark")
     {
       sessionStorage.setItem('theme', 'dark');
