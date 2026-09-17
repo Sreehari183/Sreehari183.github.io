@@ -12,5 +12,4 @@ permalink: /research/
 
 ## Preprints
 
-- (with Hailong Dao) **Componentwise Linear Ideals From Sums**,  
-  [arXiv](https://arxiv.org/abs/2504.05261)
+- (with Hailong Dao) **Componentwise Linear Ideals From Sums**, [arXiv](https://arxiv.org/abs/2504.05261)
